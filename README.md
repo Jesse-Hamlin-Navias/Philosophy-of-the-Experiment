@@ -1,2 +1,2 @@
 # Philosophy-of-the-Experiment
-# A responce to Bacon
+# A response to Bacon
